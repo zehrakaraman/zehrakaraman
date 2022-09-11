@@ -1,9 +1,12 @@
 ### Hi 👋🏽, I'm Zehra
 
+---
+I'm a 22 years old iOS Development practitioner based in Istanbul. I'm working as an iOS Developer Intern at Flexigo. I’ve been developing iOS mobile apps for more than a year.  I worked as an iOS Developer Intern for two months in Istanbul in 2021 at a mobile software company.  Currently, you'll find me developing for iOS Mobile Application around here.
+
 <!--
 **zehrakaraman/zehrakaraman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm a 22 years old iOS Development practitioner based in Istanbul. I'm working as an iOS Developer Intern at Flexigo. I’ve been developing iOS mobile apps for more than a year.  I worked as an iOS Developer Intern for two months in Istanbul in 2021 at a mobile software company.  Currently, you'll find me developing for iOS Mobile Application around here.
+
 
 Here are some ideas to get you started:
 
