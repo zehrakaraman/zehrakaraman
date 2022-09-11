@@ -4,7 +4,9 @@
 
 <h2 align="left">🔗 Let's connect!</h2>
 <p align="left">
-<a href="https://linkedin.com/in/zehrakaramann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehrakaramann" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/zehrakaramann">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </p>
 
 <!--
